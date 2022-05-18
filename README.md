@@ -130,6 +130,7 @@ Notar que esto es el **`best-setting`** exclusivamente para mi PC, de todas form
 - MSI RTX 3060
 - Ryzen 7 5800X
 - 32GB RAM
+
 ![](images/set1.png)
 ![](images/set2.png)
 ![](images/set3.png)
