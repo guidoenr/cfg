@@ -124,4 +124,20 @@ echo "  -._:'
 -tickrate 128 +cl_updaterate 128 -refresh 144 -refreshrate 144 -freq 144 -high -nod3d9ex -nojoy -console -threads 16 +cl_forcepreload 1 +cl_interp 0 +cl_interp_ratio 1 -novid +r_dynamic 0 -fullscreen +rate 128000 +exec gd3.cfg
 ```
 
+## VIDEO SETTINGS
+![](set1.png)
+![](set2.png)
+![](set3.png)
+
+
+## BENCHMARK
+```go
+==========================================================================
+# FPS Benchmark v1.01 - 01:42:765
+==========================================================================
+- Test Results Below:
+ 
+Average framerate: 542.84
+No one can buy!!
+```
 
