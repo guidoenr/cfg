@@ -4,6 +4,7 @@
  **`C:/ProgramFiles/steam/steamapps/common/csgo/cfg/`**
 
 ## gd3.cfg
+![](gd3.cfg)
 ```python
 alias "+jumpthrow" "+jump;-attack"
 alias "-jumpthrow" "-jump"
