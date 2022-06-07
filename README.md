@@ -11,7 +11,7 @@ alias "+jumpthrow" "+jump;-attack"
 alias "-jumpthrow" "-jump"
 
 bind "SPACE" +jumpthrow
-bind LEFTARROW "toggle volume 0 0.3"
+bind LEFTARROW "toggle volume 0 0.05 0.4"
 bind \ "toggleconsole"
 bind ` "toggleconsole"
 bind mwheeldown "+jump"
@@ -43,6 +43,7 @@ cl_showhelp "0"
 cl_timeout "9999999"
 cl_updatereate "128"
 cl_use_opens_buy_menu "0"
+cl_sanitize_muted_players "0"
 
 fps_max "340"
 fps_max_menu "140"
@@ -99,19 +100,19 @@ unbind tab
 closeonbuy "1"
 hud_takesshots "0"
 
-sensitivity "1.5"
+sensitivity "1.47"
 
 viewmodel_presetpos "3"
 viewmodel_fov "68"
-voice_scale "0.25"
-volume "0.3"
+voice_scale "0.3"
+volume "0.4"
 
 
 //------------- cfg-output ---------------------//
 clear
 
 echo "@autor: guidoenr"
-echo "gd3.cfg LOADED | latest version : 24-03-2022"
+echo "gd3.cfg LOADED | latest version : 03-06-2022"
 echo "github.com/guidoenr/cfg"
 echo "---------------------------------"
 echo "            | --;-;;^;"
