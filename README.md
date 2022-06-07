@@ -1,7 +1,9 @@
 # CSGO config file - cfg
 
 ## PATH
- **`C:/ProgramFiles/steam/steamapps/common/csgo/cfg/`**
+ ```go
+ C:/ProgramFiles/steam/steamapps/common/csgo/cfg/
+ ```
 
 ## gd3.cfg
 ```python
