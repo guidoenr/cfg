@@ -4,6 +4,7 @@
 # but not these files
 !.gitignore
 !gd3.cfg
+!gd32.cfg
 !1v1.cfg
 !2v2_sv.cfg
 !practica_sv.cfg
