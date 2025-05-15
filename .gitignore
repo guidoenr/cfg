@@ -3,6 +3,7 @@
 
 # but not these files
 !.gitignore
+!gd3star.cfg
 !gd3.cfg
 !gd32.cfg
 !1v1.cfg
