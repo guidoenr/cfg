@@ -1,11 +1,5 @@
-# CSGO config file - cfg
+la gran CFG del GRAN SUPER GD3 DISASTER 
 
-## PATH
- ```go
- C:/ProgramFiles/steam/steamapps/common/csgo/cfg/
- ```
-
-## gd3.cfg
 ```python
 alias "+jumpthrow" "+jump;-attack"
 alias "-jumpthrow" "-jump"
